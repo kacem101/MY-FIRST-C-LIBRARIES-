@@ -2,6 +2,10 @@
 SOME BASIC DYNAMIC C LIBRARIES
 # README.md
 
+* **Team:**
+* Medjitna Belkacem
+* Boukarana Besma
+
 **C Library for Number Strings Arrays Matrices and Ciphers**
 
 This library provides a collection of C functions for working with:
