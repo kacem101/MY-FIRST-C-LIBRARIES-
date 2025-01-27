@@ -19,8 +19,8 @@ This library provides a collection of C functions for working with:
     * Case conversion (upper/lowercase)
     * String searching and replacement
 * **Arrays:**
-    * Array creation, initialization, and resizing
-    * Array sorting algorithms (e.g., bubble sort, insertion sort, quick sort)
+    * Array creation, initialization
+    * Array sorting algorithms (e.g., bubble sort, insertion sort)
     * Array searching algorithms (e.g., linear search, binary search)
     * Array manipulation functions (e.g., finding minimum/maximum, reversing)
 * **Matrices:**
@@ -28,12 +28,13 @@ This library provides a collection of C functions for working with:
     * Matrix operations (e.g., addition, subtraction, multiplication)
     * Matrix transposition
     * Determinant calculation
-    * Inverse matrix calculation
+    * Checking Matrix Properties
 * **Ciphers:**
     * Caesar cipher encryption/decryption
     * Vigenère cipher encryption/decryption
     * Simple substitution cipher encryption/decryption
-
+    * Rail fence cipher
+    * Vigenere cipher
 * **Usage/Link to your application:**
 Link your application with the library:
 Bash
